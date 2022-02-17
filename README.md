@@ -6,7 +6,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ekasakti_)
 <br>
 [![Foo](https://komarev.com/ghpvc/?username=karuniawanekasakti&color=lightgrey)]()
-[![Foo](https://img.shields.io/github/followers/karuniawanekasakti?label=follow%20me&style=social)](https://github.com/snipe)
+[![Foo](https://img.shields.io/github/followers/snipe?label=follow%20me&style=social)](https://github.com/snipe)
 
 
 
