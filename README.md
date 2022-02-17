@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karuniawanekasakti&show_icons=true&theme=radical)
 
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ekas_)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ekasakti_)
 <br>
 [![Foo](https://komarev.com/ghpvc/?username=karuniawanekasakti&color=lightgrey)]()
 [![Foo](https://img.shields.io/github/followers/karuniawanekasakti?label=follow%20me&style=social)](https://github.com/karuniawanekasakti)
